@@ -1,5 +1,17 @@
 # Bookmarks
 
+- [Programming](#programming)
+  - [Angular](#angular)
+  - [Java](#java)
+  - [Android](#android)
+  - [JS](#js)
+  - [Laravel](#laravel)
+  - [React](#React)
+  - [IOT](#IOT)
+- [SoundCloud](#soundcloud)
+- [Colors](#colors)
+- [Research](#Research)
+
 ## programming
 
 [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
@@ -148,7 +160,7 @@
 [Laravel 5 and Socket.io Tutorial](https://www.codetutorial.io/laravel-5-and-socket-io-tutorial/)
 
 
-### React-Redux
+### React
 
 [React Native Express](http://www.reactnativeexpress.com/)
 
