@@ -6,7 +6,7 @@
   - [Android](#android)
   - [JS](#js)
   - [Laravel](#laravel)
-  - [React](#React)
+  - [React](#react)
   - [IOT](#IOT)
 - [SoundCloud](#soundcloud)
 - [Colors](#colors)
@@ -183,6 +183,8 @@
 [How To Add Redux To Create React App | PentaCode](http://www.penta-code.com/how-to-add-redux-to-create-react-app/)
 
 [vutran/awesome-react: A collection of awesome things regarding React ecosystem.](https://github.com/vutran/awesome-react)
+
+[PWA with React](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c)
 
 ### IOT
 
