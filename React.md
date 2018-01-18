@@ -12,6 +12,7 @@
 ## renderProp
 
 - [Awesome React renderProps](https://github.com/jaredpalmer/awesome-react-render-props)
+- [Functions as child components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9)
 
 ## react-redux & sagas
 
