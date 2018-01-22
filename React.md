@@ -21,6 +21,7 @@
 - [Tech Talk: Understanding Generator Functions & Using Redux Saga - YouTube](https://www.youtube.com/watch?v=o3A9EvMspig)
 - [How to build a React-Redux application with API-first CMS Contentful](https://medium.com/geogo-in/how-to-build-a-react-redux-application-with-api-first-cms-contentful-84efdd7ee654)
 - [How To Add Redux To Create React App | PentaCode](http://www.penta-code.com/how-to-add-redux-to-create-react-app/)
+- [How to Implement Redux Sagas as Middleware](https://www.javascriptjanuary.com/blog/may-cause-side-effects-how-to-implement-redux-sagas-as-middleware)
 
 ## MISC
 
