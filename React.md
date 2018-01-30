@@ -22,6 +22,7 @@
 - [How to build a React-Redux application with API-first CMS Contentful](https://medium.com/geogo-in/how-to-build-a-react-redux-application-with-api-first-cms-contentful-84efdd7ee654)
 - [How To Add Redux To Create React App | PentaCode](http://www.penta-code.com/how-to-add-redux-to-create-react-app/)
 - [How to Implement Redux Sagas as Middleware](https://www.javascriptjanuary.com/blog/may-cause-side-effects-how-to-implement-redux-sagas-as-middleware)
+- [Auth using sagas](https://start.jcolemorrison.com/react-and-redux-sagas-authentication-app-tutorial/)
 
 ## MISC
 
